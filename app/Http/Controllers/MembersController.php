@@ -85,4 +85,5 @@ class MembersController extends Controller
         $member->delete();
         return redirect('member');
     }
+
 }

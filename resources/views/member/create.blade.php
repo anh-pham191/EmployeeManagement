@@ -27,9 +27,10 @@
                 {!! Form::submit( 'Add Member', array('class'=>'btn'))  !!}
                 {!! Form::close() !!}
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4" >
 
             </div>
+            <div class="col-md-2"></div>
         </div>
     </div>
 @stop

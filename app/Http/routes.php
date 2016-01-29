@@ -19,7 +19,6 @@ Route::get('/', function () {
 //Route::post('member/create', 'MembersController@store');
 Route::resource('member', 'MembersController');
 
-
 /*
 |--------------------------------------------------------------------------
 | Application Routes

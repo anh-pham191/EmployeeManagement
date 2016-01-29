@@ -1,0 +1,1 @@
+var Agl = angular.module("Agl", []);
